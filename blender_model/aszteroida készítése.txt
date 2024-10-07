@@ -1,0 +1,6 @@
+Aszteroida készítése:
+1. Add->Mesh->Ico Shpere
+2. Edit mode
+3. Shear Tool
+4. Poly Buid Tool
+5. Save as OBJ
